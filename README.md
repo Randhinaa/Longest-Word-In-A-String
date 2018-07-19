@@ -16,7 +16,7 @@ To test the program through Command Prompt on Windows:
 1) Open Windows cmd
 2) Download the junit-4.12.jar and the hamcrest-core-1.3 jar from junit.org
 3) Set the path for the above jar files:	
-		set CLASSPATH=%CLASSPATH%;C:\path\junit-4.12.jar;C:\path\hamcrest-core-1.3.jar;C:path_to_the_test_file
+		set CLASSPATH=%CLASSPATH%;C:\(path to junit jar)\junit-4.12.jar;C:\(path to hamcrest jar)\hamcrest-core-1.3.jar;C:path_to_the_test_file
 4) To compile the test class:
 		javac LongestWordInATextTest.java
 5) To run the test class: 
