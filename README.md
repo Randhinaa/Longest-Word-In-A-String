@@ -35,4 +35,10 @@ The programs could also be Run using Eclipse IDE performing the following:
 6) Add junit-4 jar files to the library
 7) To execute the programs individually:
 		click on Run from the toolbar and select Run
-	
+		
+ASSUMPTIONS:
+-----------
+
+1) If there are multiple words of the same maximum length, the program returns all the words of equal length
+2) The program does not consider spaces as characters
+
