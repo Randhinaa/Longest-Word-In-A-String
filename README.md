@@ -41,4 +41,5 @@ ASSUMPTIONS:
 
 1) If there are multiple words of the same maximum length, the program returns all the words of equal length
 2) The program does not consider spaces as characters
+3) The program strips punctuations from the words
 
